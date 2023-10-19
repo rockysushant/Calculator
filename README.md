@@ -1,13 +1,13 @@
 # calculator
 
-
-<img align="https://github.com/rockysushant/Calculator/assets/99118017/7a9e28c4-42fa-4ebe-9d16-2655137f86bf">
-<img align="https://github.com/rockysushant/Calculator/assets/99118017/16f49e85-1cb2-47b2-8655-483c7a2bcdb9">
-
-
+<img align="left" width="320" height="700" src="https://github.com/rockysushant/Calculator/assets/99118017/2357dac7-8714-4d83-b49a-924c45b1ef1e">
+<img align="right" width="320" height="700" src="https://github.com/rockysushant/Calculator/assets/99118017/7971206c-6ee0-4e74-b1d7-5e8b41a35c9b">
+<img align="left" width="320" height="700" src="https://github.com/rockysushant/Calculator/assets/99118017/4a1ac53f-6eb2-45da-872f-4206ce8d8118">
 
 
-<img align="https://github.com/rockysushant/Calculator/assets/99118017/4b828b90-a028-42c1-b351-6c41977f5b43">
+
+
+
 A new Flutter project.
 
 ## Getting Started
@@ -22,3 +22,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+ 
